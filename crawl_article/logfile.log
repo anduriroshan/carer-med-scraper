@@ -1,0 +1,603 @@
+2025-02-08 04:19:06.204621: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1738988346.229612 3155201 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1738988346.237369 3155201 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2025-02-08 04:19:06.261244: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Collection 'cardiology' created successfully.
+Found 190 pending links for journal: Circulation
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.066703
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.066703: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.066703&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.066703: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069086
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069086: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069086&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069086: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065887
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065887: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.065887&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065887: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067681
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067681: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067681&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067681: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067544
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067544: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067544&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067544: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067087
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067087: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067087&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067087: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068066
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068066: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.068066&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068066: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069400
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069400: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069400&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069400: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069197
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069197: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069197&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069197: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068037
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068037: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.068037&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068037: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068524
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068524: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.068524&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068524: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067461
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067461: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067461&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067461: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068553
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068553: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.068553&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068553: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065904
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065904: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.065904&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065904: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.064271
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.064271: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.064271&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.064271: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069841
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069841: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069841&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069841: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065836
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065836: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.065836&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065836: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069666
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069666: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069666&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069666: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067786
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067786: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067786&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067786: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065880
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065880: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.065880&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065880: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067602
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067602: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067602&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067602: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065409
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065409: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.065409&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065409: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068383
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068383: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.068383&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068383: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.066916
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.066916: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.066916&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.066916: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069449
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069449: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069449&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069449: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070462
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070462: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070462&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070462: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068294
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068294: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.068294&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068294: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068885
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068885: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.068885&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068885: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070749
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070749: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070749&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070749: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067830
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067830: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067830&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067830: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070825
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070825: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070825&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070825: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069680
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069680: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069680&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069680: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068113
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068113: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.068113&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068113: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068576
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068576: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.068576&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068576: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069012
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069012: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069012&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069012: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070901
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070901: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070901&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070901: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070228
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070228: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070228&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070228: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065769
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065769: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.065769&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065769: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071209
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071209: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071209&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071209: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068879
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068879: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.068879&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068879: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069138
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069138: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069138&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069138: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071487
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071487: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071487&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071487: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067957
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067957: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067957&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067957: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071606
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071606: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071606&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071606: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069414
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069414: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069414&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069414: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070750
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070750: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070750&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070750: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.059102
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.059102: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.122.059102&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.059102: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069651
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069651: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069651&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069651: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.061322
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.061322: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.122.061322&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.061322: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067970
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067970: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067970&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067970: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069707
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069707: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069707&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069707: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068928
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068928: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.068928&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068928: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068739
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068739: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.068739&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068739: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070996
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070996: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070996&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070996: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067003
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067003: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067003&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067003: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067592
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067592: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067592&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067592: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068624
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068624: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.068624&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068624: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069728
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069728: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069728&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069728: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070340
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070340: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070340&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070340: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071728
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071728: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071728&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071728: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069801
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069801: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069801&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069801: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070954
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070954: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070954&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070954: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.064747
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.064747: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.064747&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.064747: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071870
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071870: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071870&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071870: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069972
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069972: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069972&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069972: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068415
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068415: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.068415&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068415: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069857
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069857: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069857&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069857: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069808
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069808: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069808&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069808: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071344
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071344: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071344&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071344: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068788
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068788: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.068788&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068788: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067606
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067606: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067606&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067606: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067861
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067861: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067861&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067861: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070368
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070368: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070368&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070368: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071905
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071905: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071905&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071905: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069917
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069917: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069917&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069917: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069731
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069731: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069731&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069731: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071021
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071021: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071021&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071021: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069581
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069581: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069581&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069581: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070525
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070525: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070525&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070525: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067083
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067083: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067083&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067083: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071479
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071479: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071479&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071479: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069440
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069440: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069440&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069440: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.064774
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.064774: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.064774&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.064774: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.067482
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.067482: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.067482&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.067482: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070347
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070347: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070347&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070347: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069723
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069723: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069723&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069723: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068280
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068280: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.068280&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068280: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071607
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071607: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071607&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071607: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068111
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068111: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.068111&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068111: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071906
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071906: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071906&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071906: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069526
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069526: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069526&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069526: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068081
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068081: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.068081&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068081: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071020
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071020: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071020&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071020: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069759
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069759: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069759&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069759: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068669
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068669: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.068669&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068669: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069864
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069864: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069864&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069864: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.067676
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.067676: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.067676&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.067676: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069554
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069554: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069554&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069554: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070067
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070067: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070067&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070067: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070147
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070147: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070147&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070147: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071022
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071022: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071022&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071022: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072090
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072090: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072090&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072090: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071498
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071498: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071498&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071498: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069606
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069606: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069606&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069606: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071147
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071147: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071147&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071147: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068587
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068587: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.068587&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068587: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068234
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068234: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.068234&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068234: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069378
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069378: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069378&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069378: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071239
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071239: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071239&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071239: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068018
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068018: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.068018&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068018: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068613
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068613: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.068613&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068613: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069220
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069220: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069220&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069220: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070694
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070694: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070694&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070694: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068358
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068358: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.068358&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.068358: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069508
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069508: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069508&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069508: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072348
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072348: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072348&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072348: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069484
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069484: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069484&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069484: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071100
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071100: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071100&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071100: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070766
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070766: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070766&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070766: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070628
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070628: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070628&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070628: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071666
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071666: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071666&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071666: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071493
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071493: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071493&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071493: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.062984
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.062984: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.122.062984&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.062984: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067005
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067005: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067005&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067005: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067136
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067136: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067136&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067136: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071245
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071245: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071245&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071245: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071538
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071538: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071538&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071538: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071157
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071157: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071157&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071157: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069732
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069732: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069732&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069732: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071608
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071608: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071608&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071608: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069709
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069709: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069709&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069709: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072368
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072368: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072368&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072368: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067135
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067135: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067135&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067135: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070418
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070418: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070418&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070418: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069679
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069679: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069679&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069679: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069975
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069975: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069975&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069975: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071534
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071534: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071534&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071534: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071253
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071253: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071253&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071253: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071186
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071186: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071186&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071186: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071851
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071851: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071851&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071851: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065935
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065935: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.065935&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065935: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069580
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069580: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069580&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069580: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070081
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070081: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070081&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070081: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072367
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072367: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072367&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072367: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067585
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067585: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067585&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067585: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069792
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069792: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069792&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069792: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069352
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069352: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069352&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069352: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071210
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071210: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071210&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071210: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067646
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067646: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067646&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067646: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.066004
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.066004: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.066004&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.066004: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072263
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072263: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072263&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072263: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070535
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070535: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070535&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070535: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071778
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071778: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071778&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071778: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.073245
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.073245: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.073245&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.073245: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070797
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070797: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070797&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070797: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068331
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068331: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.068331&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068331: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070064
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070064: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070064&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070064: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072649
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072649: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072649&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072649: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069329
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069329: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069329&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069329: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.073304
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.073304: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.073304&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.073304: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070509
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070509: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070509&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070509: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071452
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071452: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071452&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071452: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068936
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068936: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.068936&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.068936: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071536
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071536: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071536&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071536: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069695
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069695: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069695&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069695: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069272
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069272: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069272&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069272: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069834
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069834: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069834&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069834: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.073443
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.073443: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.073443&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.073443: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072460
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072460: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072460&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072460: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071649
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071649: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071649&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071649: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070413
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070413: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070413&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070413: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.073077
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.073077: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.073077&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.073077: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070565
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070565: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070565&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070565: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072232
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072232: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072232&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072232: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071524
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071524: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071524&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071524: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070709
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070709: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070709&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070709: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072547
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072547: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072547&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072547: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067270
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067270: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067270&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067270: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072099
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072099: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072099&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072099: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072285
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072285: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072285&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072285: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071712
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071712: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.071712&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.071712: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072235
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072235: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072235&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072235: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067559
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067559: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.123.067559&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.067559: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072972
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072972: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072972&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072972: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070454
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070454: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070454&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070454: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070299
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070299: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070299&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070299: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070662
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070662: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.070662&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.070662: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072238
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072238: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072238&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072238: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069798
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069798: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.069798&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.069798: 'NoneType' object has no attribute 'content'
+Scraping article: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072688
+Error fetching https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072688: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fwww.ahajournals.org%2Fdoi%2Ffull%2F10.1161%2FCIRCULATIONAHA.124.072688&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.124.072688: 'NoneType' object has no attribute 'content'
+Found 6 pending links for journal: European Heart Journal
+Scraping article: https://doi.org/10.1093/eurheartj/ehae522
+Error fetching https://doi.org/10.1093/eurheartj/ehae522: 404 Client Error: Not Found for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fdoi.org%2F10.1093%2Feurheartj%2Fehae522&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://doi.org/10.1093/eurheartj/ehae522: 'NoneType' object has no attribute 'content'
+Scraping article: https://doi.org/10.1093/eurheartj/ehae808
+Error fetching https://doi.org/10.1093/eurheartj/ehae808: 404 Client Error: Not Found for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fdoi.org%2F10.1093%2Feurheartj%2Fehae808&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://doi.org/10.1093/eurheartj/ehae808: 'NoneType' object has no attribute 'content'
+Scraping article: https://doi.org/10.1093/eurheartj/ehae522
+Error fetching https://doi.org/10.1093/eurheartj/ehae522: 404 Client Error: Not Found for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fdoi.org%2F10.1093%2Feurheartj%2Fehae522&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://doi.org/10.1093/eurheartj/ehae522: 'NoneType' object has no attribute 'content'
+Scraping article: https://doi.org/10.1093/eurheartj/ehae808
+Error fetching https://doi.org/10.1093/eurheartj/ehae808: 404 Client Error: Not Found for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fdoi.org%2F10.1093%2Feurheartj%2Fehae808&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://doi.org/10.1093/eurheartj/ehae808: 'NoneType' object has no attribute 'content'
+Scraping article: https://doi.org/10.1093/eurheartj/ehac068
+Error fetching https://doi.org/10.1093/eurheartj/ehac068: 404 Client Error: Not Found for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fdoi.org%2F10.1093%2Feurheartj%2Fehac068&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://doi.org/10.1093/eurheartj/ehac068: 'NoneType' object has no attribute 'content'
+Scraping article: https://doi.org/10.1093/eurheartj/ehac262
+Error fetching https://doi.org/10.1093/eurheartj/ehac262: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fdoi.org%2F10.1093%2Feurheartj%2Fehac262&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://doi.org/10.1093/eurheartj/ehac262: 'NoneType' object has no attribute 'content'
+No pending links found for journal: JACC: Journal of the American College of Cardiology
+No pending links found for journal: Cardiovascular Research
+Found 1 pending links for journal: Heart
+Scraping article: https://heart.bmj.com/content/110/22/e4
+Error fetching https://heart.bmj.com/content/110/22/e4: 422 Client Error: Unprocessable Entity for url: https://api.zenrows.com/v1?url=https%3A%2F%2Fheart.bmj.com%2Fcontent%2F110%2F22%2Fe4&apikey=f459603b9d549d770467bf38926b48e39fcc7fa4&premium_proxy=true
+Error scraping https://heart.bmj.com/content/110/22/e4: 'NoneType' object has no attribute 'content'
