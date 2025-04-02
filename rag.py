@@ -8,7 +8,7 @@ from langchain_community.utilities import SQLDatabase
 from langchain_experimental.sql import SQLDatabaseChain
 from langchain_openai import ChatOpenAI
 from langchain_community.cache import InMemoryCache
-from constanst import *
+from constants import *
 app = FastAPI()
 
 # Milvus & Database Configuration
