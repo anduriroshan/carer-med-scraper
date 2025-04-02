@@ -17,7 +17,7 @@ from utils import generate_embedding, connection_config
 
 def create_milvus_collection_merged(collection_name):
     """Creates a collection in Milvus with the specified schema."""
-    connections.connect(host="localhost", port="19530")  # Connect to Milvus
+    connections.connect(host="45.79.125.99", port="19530")  # Connect to Milvus
 
     # Define the schema
     fields = [

@@ -1,1 +1,0 @@
-python3 crawl_article_urology_sql.py

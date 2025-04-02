@@ -83,7 +83,7 @@ def create_index(collection_name):
 
 ###################################################################################################################################################################################################
 def initialize_milvus(collection_name):
-    connections.connect(host="localhost", port="19530")
+    connections.connect(host="49.75.129.99", port="19530")
     if collection_name not in utility.list_collections():
         create_milvus_collection(collection_name)
     collection = Collection(collection_name)
@@ -93,7 +93,7 @@ def initialize_milvus(collection_name):
 ###################################################################################################################################################################################################
 def create_milvus_collection(collection_name):
     """Creates a collection in Milvus with the specified schema."""
-    connections.connect(host="localhost", port="19530")  # Connect to Milvus
+    connections.connect(host="49.75.129.99", port="19530")  # Connect to Milvus
 
     # Define the schema with exactly seven fields if that's the desired configuration
     fields = [
@@ -135,7 +135,7 @@ def create_milvus_collection(collection_name):
 def print_sample_from_milvus(collection_name):
     """Print sample data from the specified Milvus collection."""
     try:
-        connections.connect(host="localhost", port="19530")
+        connections.connect(host="49.75.129.99", port="19530")
         collection = Collection(collection_name)
 
         # Load the collection into memory
