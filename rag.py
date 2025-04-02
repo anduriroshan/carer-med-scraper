@@ -8,7 +8,7 @@ from langchain_community.utilities import SQLDatabase
 from langchain_experimental.sql import SQLDatabaseChain
 from langchain_openai import ChatOpenAI
 from langchain_community.cache import InMemoryCache
-
+from constanst import *
 app = FastAPI()
 
 # Milvus & Database Configuration
@@ -32,7 +32,7 @@ model = SentenceTransformer("all-mpnet-base-v2")
 db = SQLDatabase.from_uri("mysql+mysqlconnector://root:Help%40carer123@45.79.125.99:3306/articles_data")
 
 # Load OpenAI Model for Text-to-SQL
-api_key = "sk-proj-tdZabfQgnsccIhkqt-650IFvnBO4oN4nTiFatCgOlarAIpcQsS409paAxFkJprkbj_OyznxIvYT3BlbkFJ-KIShjTUjsZBymxENo5Z_7E4Q"  
+api_key = OPENAI_API
 llm = ChatOpenAI(temperature=0, openai_api_key=api_key, model_name='gpt-4-turbo')
 
 # SQL Query Chain
