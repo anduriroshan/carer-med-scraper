@@ -39,9 +39,8 @@ llm = ChatOpenAI(temperature=0, openai_api_key=api_key, model_name='gpt-4-turbo'
 SQLDatabaseChain.cache = InMemoryCache()
 SQLDatabaseChain.model_rebuild()
 db_chain = SQLDatabaseChain.from_llm(llm=llm, db=db, verbose=True, return_intermediate_steps=True)
-
 def get_journal_details(query, collection_name):
-    """Retrieve top 2-3 relevant journal articles from Milvus."""
+    """Retrieve top 2-3 relevant journal articles from Milvus using title, abstract, and author embeddings."""
     embedding = model.encode([query])[0]
 
     # Connect to Milvus
@@ -51,24 +50,49 @@ def get_journal_details(query, collection_name):
 
     search_params = {"metric_type": "L2", "nprobe": 20}
 
-    results = collection.search(
+    # Search in title embeddings
+    results_title = collection.search(
+        data=[embedding],
+        anns_field="title_embedding",
+        param=search_params,
+        limit=2,
+        output_fields=["title_text", "abstract_text", "authors_text", "article_url"]
+    )
+
+    # Search in abstract embeddings
+    results_abstract = collection.search(
         data=[embedding],
         anns_field="abstract_embedding",
         param=search_params,
-        limit=3,  # Get top 3 results
-        output_fields=["abstract_text", "authors_text", "article_url"]
+        limit=2,
+        output_fields=["title_text", "abstract_text", "authors_text", "article_url"]
     )
 
+    # Search in authors embeddings
+    results_authors = collection.search(
+        data=[embedding],
+        anns_field="authors_embedding",
+        param=search_params,
+        limit=2,
+        output_fields=["title_text", "abstract_text", "authors_text", "article_url"]
+    )
+
+    # Combine and sort results by vector distance
+    combined_results = results_title[0] + results_abstract[0] + results_authors[0]
+    sorted_results = sorted(combined_results, key=lambda x: x.distance)
+
     retrieved_articles = []
-    for result in results[0]:  # Get results from the first search
+    for result in sorted_results[:3]:  # Get top 3 results after sorting
         retrieved_articles.append({
             "vector_distance": result.distance,
+            "title_text": result.entity.get("title_text"),
             "article_url": result.entity.get("article_url"),
             "abstract_text": result.entity.get("abstract_text"),
             "authors_text": result.entity.get("authors_text"),
         })
 
     return retrieved_articles if retrieved_articles else None
+
 def parse_time_expression(query):
     """Extract and convert time expressions into date ranges."""
     now = datetime.now()
