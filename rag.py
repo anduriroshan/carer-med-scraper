@@ -15,7 +15,7 @@ app = FastAPI()
 MILVUS_HOST = "45.79.125.99"
 MILVUS_PORT = "19530"
 
-COLLECTION_JOURNAL_NAME = "merged_collection"
+COLLECTION_JOURNAL_NAME = "merged_specializations"
 COLLECTION_NEWS_NAME = "article_news"
 
 DB_CONFIG = {
