@@ -1,4 +1,5 @@
-# Medical Journal Article Aggregator and Search System
+# Retrieval-Augmented Search for Medical Research Articles Integrating Web Scraping and Vector-Based Retrieval
+
 
 ## Overview
 
